@@ -1,0 +1,5 @@
+CheckPoint: File 'model/' in GoogleDrive
+https://drive.google.com/drive/folders/1P3pbtEI9dM50zMwS9oEcEYIDm-srIi2n?usp=sharing
+
+pytorch_model.bin(模型的權重參數檔案)
+training_args.bin(訓練時使用的參數檔案)
